@@ -1,4 +1,4 @@
 # olá,MUNDO!
- Primeiro repositório versonado git git
+ Primeiro repositório versonado git.
 Repositório criado durante uma aula ao vivo.
-Essa linhaeu adicionei diretamente no site! QUE IMPRESSIONANTE!
+Essa linha eu adicionei diretamente no site! QUE IMPRESSIONANTE!
